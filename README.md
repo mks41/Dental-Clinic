@@ -27,13 +27,13 @@ The Dental Clinic Management System is a comprehensive desktop application desig
 
 ### **Screenshots**
 Login--
-<img src="images/login.png" alt="loading" width="600">
+<img src="Images/login.png" alt="loading" width="600">
 
 Dashboard--
-<img src="images/dashboard.png" alt="loading" width="600">
+<img src="Images/dashboard.png" alt="loading" width="600">
 
 Patient Panel--
-<img src="images/patient.png" alt="loading" width="600">
+<img src="Images/patient.png" alt="loading" width="600">
 
   
 
