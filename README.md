@@ -24,6 +24,17 @@ The Dental Clinic Management System is a comprehensive desktop application desig
 
 - Java Development Kit (JDK) 8 or higher
 - SQL Server 2017 or higher
+
+### **Screenshots**
+Login--
+<img src="images/login.png" alt="loading" width="600">
+
+Dashboard--
+<img src="images/dashboard.png" alt="loading" width="600">
+
+Patient Panel--
+<img src="images/patient.png" alt="loading" width="600">
+
   
 
 
